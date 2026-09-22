@@ -4,9 +4,9 @@
   "hardware": "seeed_xiao_esp32c6",
   "target": "device",
   "target_value": "aumkar_13feffc5e658",
-  "version": "1.2.2",
-  "url": "https://github.com/AdarshPandey0005/Aumkar_Firmware/releases/download/1.2.2/firmware.bin",
-  "sha256": "731772af91d0b8d0d0c5e02e47935a782d475ab9064951ecf68955e2179759f1",
-  "request_id": "g-1.2.2-20260922T054524Z",
-  "signature": "MEQCIB/7cmvLKSpDaoMrtwYYKtMs7heZpaao/fjVc5hn/Qz3AiA3WKFU4IrxTssm6pq2GnGB51E+w2imZ7QsNe5mo3VE8A=="
+  "version": "1.2.3",
+  "url": "https://github.com/AdarshPandey0005/Aumkar_Firmware/releases/download/1.2.3/firmware.bin",
+  "sha256": "e06d1fda7a9bf7941aa4f1640933a001ae91890fea796a79296d40c7676cd932",
+  "request_id": "g-1.2.3-20260922T065434Z",
+  "signature": "MEUCIQCjS92pW+HkjlghMVdUzkmu8yve+Nx1kthyFOTS7dR6eQIgf9mKFHyv9cL86GANXl8ULGsh1CMUzucqxIGvxRXou7s="
 }
