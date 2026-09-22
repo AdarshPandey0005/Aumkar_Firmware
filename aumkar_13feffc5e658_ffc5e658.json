@@ -1,0 +1,12 @@
+{
+  "schema": "1",
+  "product": "aumkar_irhub",
+  "hardware": "seeed_xiao_esp32c6",
+  "target": "device",
+  "target_value": "aumkar_13feffc5e658_ffc5e658",
+  "version": "1.2.2",
+  "url": "https://github.com/AdarshPandey0005/Aumkar_Firmware/releases/download/1.2.2/firmware.bin",
+  "sha256": "731772af91d0b8d0d0c5e02e47935a782d475ab9064951ecf68955e2179759f1",
+  "request_id": "g-1.2.2-20260921T123140Z",
+  "signature": "MEUCIQDTp09/c1braUNUE2MGp4fa0/hASi+PNveGLMZoPA4C7gIgKq5GKM0fZOUAb1nlx4FthYt2DSUbG5hs/7xV25UdDYo="
+}
